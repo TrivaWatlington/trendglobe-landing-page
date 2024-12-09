@@ -312,3 +312,5 @@ footer {
 .cta-secondary:hover {
     background-color: var(--coral); /* Slightly darker coral on hover */
 }
+
+background-image: url('../images/background.jpg'); /* Correct path */
